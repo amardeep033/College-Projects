@@ -10,16 +10,36 @@ This repository is a container for academic and personal college project work. E
 
 ## Projects
 
+### LiFi Traffic Control
+
+- Path: `lifi-traffic-control/`
+- Stack: Arduino / NodeMCU, embedded C++, project documentation
+- Purpose: LiFi-based smart traffic control project with code, images, papers, and presentation material
+
 ### Military Canteen Management System
 
 - Path: `military-canteen-management-system/`
 - Stack: PHP, MySQL, HTML, CSS
 - Purpose: mini-project for managing inventory, employees, customers, and sales in a military canteen
 
+### Online Marketplace
+
+- Path: `online-marketplace/`
+- Stack: Node.js, Express, MongoDB, EJS, CSS
+- Purpose: classified ads marketplace project with application source, report, and supporting assets
+
+### Smart Contracts
+
+- Path: `smart-contracts/`
+- Stack: research/project documentation
+- Purpose: smart contracts project archive containing report, paper, and presentation files
+
 ## Repository Layout
 
+- `lifi-traffic-control/`: LiFi traffic control code, documentation, and media
 - `military-canteen-management-system/`: project source code and assets
-- `military-canteen-management-system/REPORT/`: academic report material
+- `online-marketplace/`: marketplace application source and related project files
+- `smart-contracts/`: smart contracts project documents and deliverables
 
 ## Conventions
 

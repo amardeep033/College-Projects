@@ -8,3 +8,10 @@ Thumbs.db
 *.tmp
 *.swp
 *.swo
+node_modules/
+vendor/
+.env
+.env.*
+
+config.h
+secrets.*
